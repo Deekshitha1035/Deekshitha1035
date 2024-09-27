@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deekshitha1035
-- 👀 I’m interested in  cyber security, data science
+- 👀 I’m interested in  Artificial intelligence, data science
 - 🌱 I’m currently learning artificial intelligence and data science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me deekshitha1035@gmail.com
