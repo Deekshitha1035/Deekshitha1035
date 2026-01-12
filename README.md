@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deekshitha1035
-- 👀 I’m interested in  Artificial intelligence, data science ,Web Development 
+- 👀 I’m interested in  Artificial intelligence | data science | Web Development | Python & ML Enthusiast | Open-Source Contributor
 - 🌱 I’m currently learning artificial intelligence and data science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me deekshithasrij@gmail.com
